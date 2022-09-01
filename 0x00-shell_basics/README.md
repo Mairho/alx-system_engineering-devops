@@ -1,1 +1,1 @@
-I love numbers
+creating ascript that creates a directory
