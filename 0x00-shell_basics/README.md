@@ -1,1 +1,1 @@
-my first delete on betty
+my firt directory deletion
