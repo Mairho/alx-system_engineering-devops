@@ -1,1 +1,1 @@
-i am a file
+a script that lists all files
