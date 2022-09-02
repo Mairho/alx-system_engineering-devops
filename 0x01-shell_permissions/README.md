@@ -1,1 +1,1 @@
-a scripts that adds execute permissions to the owner and the groups
+a script that adds execution permission to the owners
