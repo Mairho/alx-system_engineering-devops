@@ -1,1 +1,1 @@
-clean Emacs
+clean Tree
