@@ -1,1 +1,1 @@
-stmbolic link
+inhabit symbols
